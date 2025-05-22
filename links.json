@@ -1,0 +1,283 @@
+[
+    {
+        "id": "group_8",
+        "title": "机友必备",
+        "icon": "#icon-remen",
+        "items": [
+            {
+                "href": "https://www.tbtool.cn/",
+                "img": "files/upload/img_6818ab33b53ce.png",
+                "alt": "图吧工具箱",
+                "text": "图吧工具箱"
+            },
+            {
+                "href": "https://www.nvidia.cn/drivers/lookup/",
+                "img": "files/upload/img_6818ab7fc73d0.jpg",
+                "alt": "英伟达驱动",
+                "text": "英伟达驱动"
+            },
+            {
+                "href": "https://www.amd.com/zh-cn/support/download/drivers.html",
+                "img": "files/upload/img_6818abbf11738.png",
+                "alt": "AMD驱动",
+                "text": "AMD驱动"
+            },
+            {
+                "href": "https://www.intel.cn/content/www/cn/zh/download-center/home.html",
+                "img": "files/upload/img_6818abe0e2d3b.jfif",
+                "alt": "英特尔驱动",
+                "text": "英特尔驱动"
+            },
+            {
+                "href": "https://www.huorong.cn/",
+                "img": "files/upload/img_6818ac025241b.png",
+                "alt": "火绒安全",
+                "text": "火绒安全"
+            },
+            {
+                "href": "https://gamepp.com/",
+                "img": "files/upload/img_6818ac573d798.jpg",
+                "alt": "Gamepp(测帧数)",
+                "text": "Gamepp(测帧数)"
+            },
+            {
+                "href": "https://pan.baidu.com/s/1FLRcA1fWzamku1Tomljh5Q?pwd=8888",
+                "img": "files/upload/img_6818ac919c3ca.jpg",
+                "alt": "系统激活",
+                "text": "系统激活"
+            },
+            {
+                "href": "https://www.ludashi.com/",
+                "img": "files/upload/img_6818ad785a830.jfif",
+                "alt": "鲁大师（弹窗多）",
+                "text": "鲁大师（弹窗多）"
+            },
+            {
+                "href": "https://www.expreview.com/",
+                "img": "files/upload/img_681dc2bcc0274.jpg",
+                "alt": "超能网（硬件指南）",
+                "text": "超能网（硬件指南）"
+            }
+        ]
+    },
+    {
+        "id": "group_9",
+        "title": "软件",
+        "icon": "#icon-msg",
+        "items": [
+            {
+                "href": "https://potplayer.tv/?lang=zh_CN",
+                "img": "files/upload/img_6818ae20b4291.jpg",
+                "alt": "Player播放器",
+                "text": "Player播放器"
+            },
+            {
+                "href": "https://www.7-zip.org/",
+                "img": "files/upload/img_6818aef16d3e4.png",
+                "alt": "7-zip(解压)",
+                "text": "7-zip(解压)"
+            },
+            {
+                "href": "https://obsproject.com/",
+                "img": "files/upload/img_6818af1dbca73.jpg",
+                "alt": "OBS",
+                "text": "OBS"
+            },
+            {
+                "href": "https://pan.baidu.com/s/1blvDanIXmEv8x6c1hswKqg?pwd=r9zs",
+                "img": "files/upload/img_6818afa23e627.jpg",
+                "alt": "WPS(学习版)",
+                "text": "WPS(学习版)"
+            },
+            {
+                "href": "https://weixin.qq.com/",
+                "img": "files/upload/img_6818afc153812.jpg",
+                "alt": "微信",
+                "text": "微信"
+            },
+            {
+                "href": "https://www.dingtalk.com/",
+                "img": "files/upload/img_6818b0263495e.png",
+                "alt": "钉钉",
+                "text": "钉钉"
+            },
+            {
+                "href": "https://im.qq.com/index/",
+                "img": "files/upload/img_6818b03b66690.jpg",
+                "alt": "QQ",
+                "text": "QQ"
+            },
+            {
+                "href": "https://sunlogin.oray.com/",
+                "img": "files/upload/img_6818b09b34f3a.jpg",
+                "alt": "向日葵远程",
+                "text": "向日葵远程"
+            }
+        ]
+    },
+    {
+        "id": "group_10",
+        "title": "游戏",
+        "icon": "#icon-game00",
+        "items": [
+            {
+                "href": "https://store.steampowered.com/about/",
+                "img": "files/upload/img_6818b0dc48676.jpg",
+                "alt": "Steam",
+                "text": "Steam"
+            },
+            {
+                "href": "https://www.wegame.com.cn/home",
+                "img": "files/upload/img_6818b134a3435.jpg",
+                "alt": "Wegame",
+                "text": "Wegame"
+            },
+            {
+                "href": "https://pk.youxia.net/",
+                "img": "files/upload/img_6818b1862b9d7.jpg",
+                "alt": "游侠对战平台",
+                "text": "游侠对战平台"
+            },
+            {
+                "href": "https://mumu.163.com/",
+                "img": "files/upload/img_6818b1a916b22.jpg",
+                "alt": "MuMu模拟器",
+                "text": "MuMu模拟器"
+            },
+            {
+                "href": "https://www.ldmnq.com/",
+                "img": "files/upload/img_6818b1cc5303e.jpg",
+                "alt": "雷电模拟器",
+                "text": "雷电模拟器"
+            },
+            {
+                "href": "https://www.leigod.com/",
+                "img": "files/upload/img_6818b20c33618.png",
+                "alt": "雷神加速器",
+                "text": "雷神加速器"
+            },
+            {
+                "href": "https://lol.qq.com/download.shtml?ADTAG=lolweb.v3",
+                "img": "files/upload/img_6818b23f5d6db.jpg",
+                "alt": "英雄联盟",
+                "text": "英雄联盟"
+            },
+            {
+                "href": "https://www.yjwujian.cn/download/#/",
+                "img": "files/upload/img_6818b27db11d0.png",
+                "alt": "永劫无间",
+                "text": "永劫无间"
+            }
+        ]
+    },
+    {
+        "id": "group_11",
+        "title": "影音",
+        "icon": "#icon-sheji",
+        "items": [
+            {
+                "href": "https://www.douyin.com/",
+                "img": "files/upload/img_6818b2ecb7bd8.png",
+                "alt": "抖音",
+                "text": "抖音"
+            },
+            {
+                "href": "https://www.bilibili.com/",
+                "img": "files/upload/img_6818b2ffed4ec.png",
+                "alt": "哔哩哔哩",
+                "text": "哔哩哔哩"
+            },
+            {
+                "href": "https://www.iqiyi.com/",
+                "img": "files/upload/img_6818b32c4bb07.jpg",
+                "alt": "爱奇艺",
+                "text": "爱奇艺"
+            },
+            {
+                "href": "https://www.youku.com/",
+                "img": "files/upload/img_6818b351b2e29.png",
+                "alt": "优酷",
+                "text": "优酷"
+            },
+            {
+                "href": "https://v.qq.com/",
+                "img": "files/upload/img_6818b3737793d.jpg",
+                "alt": "腾讯视频",
+                "text": "腾讯视频"
+            },
+            {
+                "href": "https://music.163.com/",
+                "img": "files/upload/img_6818b3bd75da0.jpg",
+                "alt": "网易云音乐",
+                "text": "网易云音乐"
+            },
+            {
+                "href": "https://y.qq.com/download/index.html",
+                "img": "files/upload/img_6818b3e2050ed.png",
+                "alt": "QQ音乐",
+                "text": "QQ音乐"
+            },
+            {
+                "href": "https://www.kugou.com/",
+                "img": "files/upload/img_6818b411995d8.jpg",
+                "alt": "酷狗音乐",
+                "text": "酷狗音乐"
+            }
+        ]
+    },
+    {
+        "id": "group_12",
+        "title": "生活",
+        "icon": null,
+        "items": [
+            {
+                "href": "https://www.xiaohongshu.com/explore",
+                "img": "files/upload/img_6818b44f19415.jpg",
+                "alt": "小红书",
+                "text": "小红书"
+            },
+            {
+                "href": "https://www.toutiao.com/",
+                "img": "files/upload/img_6818b466814e3.png",
+                "alt": "今日头条",
+                "text": "今日头条"
+            },
+            {
+                "href": "https://you.ctrip.com/",
+                "img": "files/upload/img_6818b4861f1f4.png",
+                "alt": "携程旅行",
+                "text": "携程旅行"
+            },
+            {
+                "href": "https://www.58.com/",
+                "img": "files/upload/img_6818b497ca85d.jpg",
+                "alt": "58同城",
+                "text": "58同城"
+            },
+            {
+                "href": "https://www.taobao.com/",
+                "img": "files/upload/img_6818b4e95065d.jpg",
+                "alt": "淘宝",
+                "text": "淘宝"
+            },
+            {
+                "href": "https://www.jd.com/",
+                "img": "files/upload/img_6818b4f985bdb.jpg",
+                "alt": "京东",
+                "text": "京东"
+            },
+            {
+                "href": "https://www.douban.com/",
+                "img": "files/upload/img_6818b520ceff3.png",
+                "alt": "豆瓣",
+                "text": "豆瓣"
+            },
+            {
+                "href": "https://weibo.com/",
+                "img": "files/upload/img_6818b5495c44d.jpg",
+                "alt": "微博",
+                "text": "微博"
+            }
+        ]
+    }
+]
